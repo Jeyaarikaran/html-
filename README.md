@@ -9,7 +9,7 @@
   <p>Here is a video I really like. Watch it below!</p>
 
   <!-- YouTube Video Embed -->
-  <link>https://youtu.be/HD13eq_Pmp8?si=6k2uV8UHhURZC3uw</link>
+  https://youtu.be/HD13eq_Pmp8?si=6k2uV8UHhURZC3uw
   
 
 </body>
