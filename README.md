@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+  <title>My Favorite YouTube Video</title>
 </head>
 <body>
 
@@ -9,8 +9,13 @@
   <p>Here is a video I really like. Watch it below!</p>
 
   <!-- YouTube Video Embed -->
-  https://youtu.be/HD13eq_Pmp8?si=6k2uV8UHhURZC3uw
-  
+  <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 
 </body>
 </html>
